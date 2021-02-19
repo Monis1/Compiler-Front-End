@@ -1,6 +1,0 @@
-c:\users\monis\documents\visual studio 2013\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Debug\Lexical_Analyzer.exe.config
-c:\users\monis\documents\visual studio 2013\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Debug\Lexical_Analyzer.exe
-c:\users\monis\documents\visual studio 2013\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Debug\Lexical_Analyzer.pdb
-c:\users\monis\documents\visual studio 2013\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.exe
-c:\users\monis\documents\visual studio 2013\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.pdb
-C:\Users\Monis\Documents\Visual Studio 2013\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.csprojResolveAssemblyReference.cache
